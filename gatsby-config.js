@@ -33,6 +33,11 @@ module.exports = {
         icon: 'src/images/total_loyalty_icon.png', // This path is relative to the root of the site.
       },
     },
+    'gatsby-plugin-material-ui',
+    'gatsby-plugin-sass',
+    'gatsby-plugin-postcss',
+    'gatsby-plugin-minify',
+    'gatsby-plugin-minify-html',
     {
       resolve: 'gatsby-plugin-root-import',
       options: {

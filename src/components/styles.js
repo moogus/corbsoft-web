@@ -6,8 +6,6 @@ export default makeStyles({
     flexGrow: 1,
     backgroundColor: theme.palette.background.default,
     padding: theme.spacing(1),
-    marginTop: theme.spacing(2),
-    marginBottom: theme.spacing(2),
   },
   toolbar: {
     alignItems: 'center',
